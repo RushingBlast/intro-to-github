@@ -27,3 +27,13 @@ title: Welcome to my blog
   1. Ordered sub-list
 4. And another item 
 
+1. Hello
+2. Eyo
+3. Hi
+4. Sup
+5. What's up
+6. How is it going?
+7. How do you do?
+8. You good?
+9. I like 
+
