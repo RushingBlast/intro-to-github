@@ -3,17 +3,20 @@ title: Welcome to my blog
 ---
 
 1. *Italics*
-2. **Bold**
-3. ***Italic AND BOLD***
-4. __Underlined__
-5. ~~Crosslined~~
-# H1
-## H2
-### H3
-##### H4
   * Unordered sublist
   * Fish
   * Meat
   * Chicken
-  1. Ordered sublist
-  2. 
+3. **Bold**
+4. ***Italic AND BOLD***
+5. **_Underlined_**
+  1. Potatoe 
+  2. Garlic
+  3. Olive oil
+  4. Salt & Pepper
+9. ~~Crosslined~~
+# H1
+## H2
+### H3
+##### H4
+
